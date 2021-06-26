@@ -1,4 +1,4 @@
-## Hi there <img src='https://github.com/tk007-git/tk007-git/blob/main/hi.gif' height='25px'>,I'm Rishabh shah🕶️
+## Hi there <img src='https://github.com/tk007-git/tk007-git/blob/main/hi.gif' height='25px'>,I'm Rishabh shah
 ### Grasping more knowledge to be successful ✅
 
 
