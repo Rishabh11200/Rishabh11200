@@ -1,7 +1,6 @@
 ## Hi there <img src='https://github.com/tk007-git/tk007-git/blob/main/hi.gif' height='25px'>,I'm Rishabh shah🕶️
 ### Grasping more knowledge to be successful ✅
 
-- 💬 Ask me about Debugging 
 
 ###How to reach me 📫<br>
 [![Abir Hasan](https://img.icons8.com/fluent/48/000000/twitter.png)][twitter]
